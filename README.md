@@ -19,7 +19,7 @@ SMS бомбер с приятным веб-интерфейсом.
     ```
 2. Склонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/crinny/b0mb3r
+    git clone https://github.com/Valdex/b0mb3r
     cd b0mb3r
     ```
 3. Установите зависимости:
@@ -37,7 +37,7 @@ SMS бомбер с приятным веб-интерфейсом.
 2. Установите git для Windows, скачав его [отсюда](https://git-scm.com/download/win).
 3. Откройте командную строку и склонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/crinny/b0mb3r
+    git clone https://github.com/Valdex/b0mb3r
     cd b0mb3r
     ```
 4. Установите все необходимые библиотеки и запустите скрипт:
@@ -56,20 +56,3 @@ SMS бомбер с приятным веб-интерфейсом.
     ```
 3. Выполните действия, начиная с пункта 3 из инструкции по установке на Windows.
 
-# Обновление
-## На Windows
-1. Введите следующую команду для удаления предыдущей версии:
-   ```bash
-   rmdir /S /Q b0mb3r
-   ```
-2. Выполните действия, начиная с пункта 3 из инструкции по установке на Windows.
-## На Linux/Android
-1. Выполните эту команду:
-   ```bash
-   cd b0mb3r
-   git pull
-   ```
-# Скриншоты
-⁣                           |  ⁣
-:-------------------------:|:-------------------------:
-![](https://github.com/crinny/b0mb3r/blob/master/assets/screenshot.png)  |  ![](https://github.com/crinny/b0mb3r/blob/master/assets/screenshot_mobile.png)
